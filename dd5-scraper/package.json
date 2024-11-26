@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "scraper": "npx tsx scraper.ts"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "axios": "^1.7.8",
+    "cheerio": "^1.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
